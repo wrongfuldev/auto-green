@@ -1,6 +1,6 @@
 # auto-green
 
-[![Build Status](https://github.com/wrongfuldev/auto-green/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/wrongfuldev/auto-green/actions/workflows/ci.yml)
+[![ci](https://github.com/wrongfuldev/auto-green/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/wrongfuldev/auto-green/actions/workflows/ci.yml)
 
 自动保持 GitHub 提交状态常绿。
 
